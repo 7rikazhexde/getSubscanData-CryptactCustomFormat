@@ -50,11 +50,11 @@ pip install numpy
 #### ソースコードの実行
 ##### <ケース1>csvファイルを新規作成する場合
 ```
-python getSubscanStakingRewardsInpuNewCreateCsvData.py
+python getSubscanStakingRewardsInputNewCreateCsvData.py
 ```
 ##### <ケース2>既存のcsvファイルに追記する場合
 ```
-python getSubscanStakingRewardsInpuAddCsvData.py
+python getSubscanStakingRewardsInputAddCsvData.py
 ```
 #### 件数の入力
 * 以下のメッセージ表示後、**正の数**で件数を入力してください
